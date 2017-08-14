@@ -3,6 +3,8 @@ package day_07Demo1;
 import java.util.ArrayList;
 import java.util.Collection;
 
+
+//恷仟井云込込込込込込込
 public class Demo01 {
 	public static void main(String[] args) {
 		Collection<String> c = new ArrayList<String>();
